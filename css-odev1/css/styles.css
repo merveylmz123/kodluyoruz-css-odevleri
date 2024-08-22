@@ -1,0 +1,41 @@
+.header{
+    text-align: center;
+    color: rgb(58, 57, 57);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+} 
+.header-h3{
+    color: rgb(68, 68, 68);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.center{
+  
+  list-style-position: inside; 
+text-align: center;
+
+}
+.header-menu{
+
+   padding: 0;
+    margin:0;
+    list-style: none;
+    display:flex;
+
+
+position: relative; 
+ 
+ margin-left: 490px;
+ li{ 
+    a{
+       color: rgb(75, 73, 73);
+         padding: 0 20px;
+        text-decoration: none;
+        font-size: 17px;
+        opacity: 0.7;
+    
+  }
+}
+
+}
+.products{
+    margin-left: 500px;
+}
